@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost)](https://github.com/YTGhost/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true)](https://github.com/YTGhost/github-readme-stats)
+[![Top Langs](https://github-readme-stats-blue-nu.vercel.app/api/top-langs/?username=YTGhost)](https://github.com/YTGhost/github-readme-stats)
 
 <!--
 **YTGhost/YTGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
