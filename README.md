@@ -7,7 +7,8 @@
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
 - 🏫 Junior at Beijing Jiaotong University, BSc in Software Engineer
-- ⚡ JavaScript / Java / C++ / Python
+- ⚡ JavaScript & Java & C++ & Python
+- ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
 - 💬 Code for fun, make things happen
 
