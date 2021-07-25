@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats-black-five.vercel.app/api?username=YTGhost)](https://github.com/YTGhost/github-readme-stats)
+
 <!--
 **YTGhost/YTGhost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
