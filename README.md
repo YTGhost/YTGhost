@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
-- 🏫 Junior at Beijing Jiaotong University, BSc in Software Engineer
+- 🏫 Senior at Beijing Jiaotong University, and will go to Zhejiang University for my master's degree
 - ⚡ TypeScript & Java & C++ & Python & Go
 - ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
