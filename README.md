@@ -8,7 +8,7 @@
 
 - 🏫 Senior at Beijing Jiaotong University, and will go to Zhejiang University for my master's degree
 - 👀 I’m interested in cloud native
-- ⚡ TypeScript & Java & C++ & Python & Go
+- ⚡ TypeScript & Go & C++ & Java & Python
 - ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
 - 💬 Code for fun, make things happen
