@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
-- 🏫 Senior at Beijing Jiaotong University, and will go to Zhejiang University for my master's degree
+- 🏫 Senior student of Beijing Jiaotong University, and will go to Zhejiang University for master's degree
 - 👀 I’m interested in cloud native
 - ⚡ TypeScript & Go & C++ & Java & Python
 - ✏️ WSL2 & Vscode & Oh My Zsh 
