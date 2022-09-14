@@ -11,6 +11,6 @@
 - ⚡ TypeScript & Go & C++ & Java & Python
 - ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
-- 💬 Code for fun, make things happen
+- 💬 Code for fun, make things happen!
 
 <!-- <h6>* Badges by <a href="https://github.com/spencerwooo/Substats" target="_blank">Substats</a>. Card by <a href="https://github-readme-stats.vercel.app/" target="_blank">GitHub Readme Stats</a>.</h6> -->
