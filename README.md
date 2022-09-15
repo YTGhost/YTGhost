@@ -6,7 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
-- 👀 I’m interested in cloud native, [LinkedIn](www.linkedin.com/in/liang-deng-hihia)
+- 👀 I’m interested in cloud native, [LinkedIn](https://www.linkedin.com/in/liang-deng-hihia)
 - ⚡ Go & TypeScript & C++ & Java & Python
 - ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
