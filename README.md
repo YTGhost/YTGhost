@@ -6,9 +6,8 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
-- 🏫 Senior student of Beijing Jiaotong University, and will go to Zhejiang University for master's degree
 - 👀 I’m interested in cloud native
-- ⚡ TypeScript & Go & C++ & Java & Python
+- ⚡ Go & TypeScript & C++ & Java & Python
 - ✏️ WSL2 & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
 - 💬 Code for fun, make things happen!
