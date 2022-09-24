@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in cloud native, [LinkedIn](https://www.linkedin.com/in/liang-deng-hihia)
 - ⚡ Go & TypeScript & C++ & Java & Python
-- ✏️ WSL2 & Vscode & Oh My Zsh 
+- ✏️ macOS & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
 - 💬 Code for fun, make things happen!
 
