@@ -8,7 +8,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
 - 👀 I’m interested in cloud native, more about me: [LinkedIn](https://www.linkedin.com/in/liang-deng-hihia)
-- ⚡ Go & TypeScript & C++ & Java & Python
+- ⚡ Go & TypeScript & C++ & Java & Rust & Python
 - ✏️ macOS & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
 - 💬 Code for fun, make things happen!
