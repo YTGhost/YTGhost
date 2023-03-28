@@ -1,4 +1,4 @@
-## Hi there 👋 I'm HIHIA
+## Hi there 👋 I'm Liang Deng
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DYTGhost&longCache=true)](https://github.com/YTGhost)
 [![wakatime](https://wakatime.com/badge/user/552abb88-3494-4f3e-8da5-4112560ce3b7.svg)](https://wakatime.com/@552abb88-3494-4f3e-8da5-4112560ce3b7)
