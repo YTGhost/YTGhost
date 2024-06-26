@@ -7,7 +7,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-q35o.vercel.app/api?username=YTGhost&count_private=true&show_icons=true">](https://github.com/YTGhost/github-readme-stats)
 
-- 👀 I’m interested in cloud native, graduate student of ZJU SEL(Software Engineering Lab), Approver and SIG-UI/CLI Tech Leader of OpenYurt
+- 👀 I’m interested in cloud native, graduate student of ZJU SEL(Software Engineering Lab), Approver of OpenYurt
 - ⚡ Go & TypeScript & C++ & Java & Rust & Python
 - ✏️ macOS & Vscode & Oh My Zsh 
 - 👨‍🔬 [INFJ](https://www.16personalities.com/infj-personality) personality
